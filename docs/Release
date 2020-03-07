@@ -1,0 +1,12 @@
+Origin: cass's repo
+Label: cass's repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: cass's personal things
+
+SHA256:
+ 6c63a18cdf28be33ef56b0412e87fff7c4c8094ba01e48f73c31bd6832b51cd2 758 Packages.bz2
+ 7db3afefcb6f098af9745484b6b21566ae7d272c3bbcb40aa1742a580fd1b693 700 Packages.xz
